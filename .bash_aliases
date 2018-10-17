@@ -1,4 +1,6 @@
 alias tl='task list'
+alias ta='task add'
+alias tp='task projects'
 alias vu='vagrant up'
 alias vs='vagrant ssh'
 alias vh='vagrant halt'
